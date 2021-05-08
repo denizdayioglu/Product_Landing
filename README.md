@@ -1,4 +1,4 @@
-# Product Landing Page Prject
+# Product Landing Page Project
 FreeCodeCamp Project
 User Story #1: 
 My product landing page should have a header element with a corresponding id="header".
